@@ -1,0 +1,24 @@
+{
+  "name": "data-structures-and-algorithms-in-typescript",
+  "version": "1.0.0",
+  "description": "This repo is to demonstrate code for Data Structures and Algorithms in TypeScript serie.",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.0.2",
+    "ts-node": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "ts-node stack/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecforg/data-structures-and-algorithms-in-typescript.git"
+  },
+  "author": "CodeCF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codecforg/data-structures-and-algorithms-in-typescript/issues"
+  },
+  "homepage": "https://github.com/codecforg/data-structures-and-algorithms-in-typescript#readme"
+}
